@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rapurbo123@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I was born on World No Tobacco Day 😆
 
 <!---
 ApurboRoyGit/ApurboRoyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
