@@ -1,6 +1,5 @@
-# Hey There! This is Apurbo Roy 🫰
+# Hey There! This is Apurbo Roy 👋
 
-- 👋 Hi, I’m @apurboroy33
 - 📫 How to reach me rapurbo123@gmail.com
 - ⚡ Fun fact: I was born on World No Tobacco Day 😆
 
