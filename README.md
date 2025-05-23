@@ -3,7 +3,7 @@
 - 📫 How to reach me rapurbo123@gmail.com
 - ⚡ Fun fact: I was born on World No Tobacco Day 😆
 
-<img src="./github-profile-coding-gif.gif" width="1000px">
+<img src="./media/github-profile-coding-gif.gif" width="1000px">
 
 ## Contact Me
 
