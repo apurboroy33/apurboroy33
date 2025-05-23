@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/apurbo-roy-68062532b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="45" width="60" /></a>
 <a href="https://instagram.com/apurboroy33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="60" /></a>
 
+<img src="./media/github-profile-gif-2.gif" width="1000px">
+
 <!---
 ApurboRoyGit/ApurboRoyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
