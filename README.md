@@ -1,6 +1,6 @@
 # Howdy! This is Apurbo Roy 👋
 
-- 👨‍🎓 I am studying Engineering
+- 👨‍🎓 I am currently studying Engineering
 - 🤝 I love collaborating with people
 - 📫 My Emails: rapurbo123@gmail.com or royapurbo698@gmail.com
 - ⚡ Fun fact: I was born on World No Tobacco Day 😆
