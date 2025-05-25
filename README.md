@@ -22,6 +22,8 @@
 <a href="https://www.linkedin.com/in/apurbo-roy-68062532b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="45" width="60" /></a>
 <a href="https://instagram.com/apurboroy33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="60" /></a>
 
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
 <img src="./media/github-profile-gif-2.gif" width="1000px">
 
 <!---
