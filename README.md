@@ -1,11 +1,21 @@
-# Hey There! This is Apurbo Roy 👋
+# Howdy! This is Apurbo Roy 👋
 
-- 📫 How to reach me rapurbo123@gmail.com
+- 👨‍🎓 I am studying Engineering
+- 🤝 I love collaborating with people
+- 📫 My Emails: rapurbo123@gmail.com or royapurbo698@gmail.com
 - ⚡ Fun fact: I was born on World No Tobacco Day 😆
+
+<!--
+- My main interests:
+  - Arduino
+  - Electronics
+  - Python
+  - C++
+-->
 
 <img src="./media/github-profile-coding-gif.gif" width="1000px">
 
-## Contact Me
+## My Socials
 
 <a href="https://www.linkedin.com/in/apurbo-roy-68062532b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="45" width="60" /></a>
 <a href="https://instagram.com/apurboroy33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="60" /></a>
