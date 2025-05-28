@@ -15,7 +15,13 @@
 
 <img src="./media/github-profile-coding-gif.gif" width="1000px">
 
+## Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurboroy33&show_icons=true&locale=en" alt="apurboroy33" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=apurboroy33&card_width=600&card_height=210)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurboroy33&show_icons=true&locale=en&layout=compact" alt="apurboroy33" /></p>
 
 ## My Socials
 
