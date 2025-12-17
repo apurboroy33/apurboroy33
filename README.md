@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I am currently studying Engineering
 - 🤝 I love collaborating with people
-- 📫 Email me: rapurbo123@gmail.com or royapurbo698@gmail.com
+- 📫 Email me: royapurbo698@gmail.com or rapurbo123@gmail.com
 - ⚡ Fun fact: I was born on World No Tobacco Day 😆
 
 <!--
