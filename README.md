@@ -2,6 +2,12 @@
   <h1 font-weight="bold">Howdy! This is Apurbo Roy 👋</h1>
 </div>
 
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=27F5AD&center=true&vCenter=true&width=750&height=100&lines=Computer+Science+%26+Engineering+Student;Data+Science+Enthusiast;Web+Developer;Learning+New+Things;Living+the+best+life!">
+  </a>
+</p>
+
 <div align=center>
     <p>👨‍🎓 I am currently studying Engineering at Birla Institute of Technology, Mesra
       <br> 🤝 I love collaborating with people and learning new stuff!
