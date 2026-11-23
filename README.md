@@ -10,7 +10,7 @@
 
 <div align=center>
     <p>👨‍🎓 I am currently studying Engineering at Birla Institute of Technology, Mesra
-      <br> 🤝 I love collaborating with people and learning new stuff!
+      <br> 🤝 I love collaborating with people and learning new stuff!!!
       <br> 📫 Email me: <a href="mailto:royapurbo698@gmail.com">royapurbo698@gmail.com</a> or <a href="mailto:rapurbo123@gmail.com">rapurbo123@gmail.com</a>
       <br>⚡ Fun fact: I was born on World No Tobacco Day 😆</p>
 </div>
